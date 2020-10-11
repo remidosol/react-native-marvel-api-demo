@@ -2,7 +2,7 @@
 
 **react-native-marvel-api-demo** is my first experience about *Cross-Platform Mobile App Development* using **React Native** that coded via ***TypeScript***.
 
-Context API has used for state management and theme.
+Context API has been used for state management and theme.
 
 Data have been fetched from [Marvel API](https://developer.marvel.com/).
 
