@@ -49,6 +49,8 @@ Or run project via Expo on Tunnel:
 yarn start --tunnel
 ```
 
+**You can run this project on you smart phone by scanning QR code on this [***Expo Project Link***](https://expo.io/@remidosol/projects/react-native-marvel-api-demo).**
+
 ## Some Screens
 
 <img src="./ScreenShots/0.jpg" width="240"> <img src="./ScreenShots/1.jpg" width="240"><hr>
